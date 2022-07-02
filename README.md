@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelGs1
-- 👀 I’m interested in electronicsn, computer science
+- 👀 I’m interested in electronics, computer science
 - 💞️ I’m looking to collaborate on robotics
 
 <!---
